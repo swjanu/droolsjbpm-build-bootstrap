@@ -291,7 +291,7 @@
     <!-- Internal dependencies -->
     <version.org.kie>7.74.1.Final</version.org.kie>
     <version.org.drools>${version.org.kie}</version.org.drools>
-    <version.org.jbpm>${version.org.kie}</version.org.jbpm>
+    <version.org.jbpm>7.74.1.SB3</version.org.jbpm>
     <version.org.drools.droolsjbpm-integration>${version.org.drools}</version.org.drools.droolsjbpm-integration>
     <version.org.uberfire>${version.org.kie}</version.org.uberfire>
     <version.org.kie.uberfire.extensions>${version.org.drools}</version.org.kie.uberfire.extensions>

@@ -48,7 +48,7 @@
   </ciManagement>
 
   <properties>
-    <version.org.kie>${project.version}</version.org.kie>
+    <version.org.kie>7.74.1.Final</version.org.kie>
     <version.org.kie.lienzo>${version.org.kie}</version.org.kie.lienzo>
     <version.org.optaplanner>7.73.0.Final</version.org.optaplanner>
     <jboss.releases.repo.url>https://repository.jboss.org/nexus/service/local/staging/deploy/maven2/</jboss.releases.repo.url>
